@@ -5,6 +5,10 @@ MediTech is a modern healthcare management platform designed to improve healthca
 The platform is designed with a mobile-first approach and focuses on providing an easy-to-use healthcare solution for both urban and rural communities.
 
 ---
+# Demo
+
+
+----
 
 ## 🚀 Features
 
@@ -150,6 +154,10 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Zeeshan Ahmed**
+
+GitHub: https://github.com/ZEESHAN-9109
+
+LinkedIn: https://www.linkedin.com/in/zeeshan-ahmed-b4b1122ba/
 
 Computer Science Engineering Student
 
